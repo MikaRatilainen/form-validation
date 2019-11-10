@@ -1,7 +1,7 @@
 # Валидация форм
 
-### v0.0.3
+### v0.0.4
 
 Yandex Practicum form validation project by Mika Ratilainen
 
-## [Обычная ссылка в строке](https://mikaratilainen.github.io/form-validation/)
+## [Ссылка на проект](https://mikaratilainen.github.io/form-validation/)
