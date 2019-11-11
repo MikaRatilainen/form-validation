@@ -1,6 +1,6 @@
 # Валидация форм
 
-### v0.0.5
+### v0.0.6
 
 Yandex Practicum form validation project by Mika Ratilainen
 
